@@ -1,0 +1,15 @@
+.mainMenu{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: antiquewhite;
+}
+
+.item{
+  padding: 5px;
+  font-size: 14pt;
+}
+
+.content{
+  padding-top: 10px;
+}
